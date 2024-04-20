@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <p>&copy; mywebsitename</p>
+      <p>&copy; 2024 mywebsitename</p>
     </footer>
   );
 }
