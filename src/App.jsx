@@ -3,10 +3,9 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import Button from "./Button/Button";
 import Student from "./student";
+import UserGreeting from "./UserGreeting";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <Button />
@@ -16,6 +15,7 @@ function App() {
       <Student name="Wave" age={90} isStudent={true}></Student>
       <Student name="Wave2" age="30" isStudent="false"></Student>
       <Student name="Larry"></Student>
+      <UserGreeting isLoggedIn={true} />
     </>
   );
 }
