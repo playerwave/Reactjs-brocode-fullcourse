@@ -1,9 +1,9 @@
-import Counter2 from "./Counter2";
+import CarComponent from "./CarComponent";
 
 function App() {
   return (
     <>
-      <Counter2 />
+      <CarComponent />
     </>
   );
 }
