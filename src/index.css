@@ -50,3 +50,18 @@
   color: hsl(0, 0%, 45%);
   cursor: pointer;
 }
+
+/*Counter.jsx*/
+.counter-display {
+  color: blue;
+  font-size: 6em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn-counter {
+  font-size: 3em;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
