@@ -1,9 +1,9 @@
-import ArrComponent from "./ArrComponent";
+import CarList from "./CarList";
 
 function App() {
   return (
     <>
-      <ArrComponent />
+      <CarList></CarList>
     </>
   );
 }
