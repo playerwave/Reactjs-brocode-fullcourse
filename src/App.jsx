@@ -1,9 +1,9 @@
-import CarComponent from "./CarComponent";
+import ArrComponent from "./ArrComponent";
 
 function App() {
   return (
     <>
-      <CarComponent />
+      <ArrComponent />
     </>
   );
 }
