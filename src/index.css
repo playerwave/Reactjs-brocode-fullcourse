@@ -117,7 +117,9 @@ input[type="color"] {
   align-items: center;
 } */
 
-body {
+/*ToDoList*/
+
+/* body {
   background-color: hsl(0, 0%, 10%);
 }
 
@@ -202,4 +204,6 @@ li {
   padding: 8px 12px;
   font-size: 1.4rem;
   margin-left: 10px;
-}
+} */
+
+

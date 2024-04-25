@@ -1,9 +1,9 @@
-import ToDoList from "./ToDoList";
+import WHDisplay from "./WHDisplay";
 
 function App() {
   return (
     <>
-      <ToDoList />
+      <WHDisplay />
     </>
   );
 }
