@@ -207,16 +207,16 @@ li {
 } */
 
 /*Digital Clock App*/
-body {
+/* body {
   background-image: url(assets/166017.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  margin: 0;
+  margin: 0; */
 
-  /*OPTIONAL*/
-  display: flex;
+/*OPTIONAL*/
+/* display: flex;
   justify-content: center;
   min-height: 100vh;
   align-items: center;
@@ -235,4 +235,11 @@ body {
   font-family: monospace;
   text-align: center;
   text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
+} */
+
+/*UseContextHook*/
+
+.box {
+  border: 3px solid;
+  padding: 25px;
 }
