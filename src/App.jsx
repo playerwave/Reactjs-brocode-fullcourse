@@ -1,11 +1,9 @@
-import UseContextHook1 from "./UseContextHook1";
-import UseContextHook3 from "./UseContextHook3";
-import UseContextHook4 from "./UseContextHook4";
+import UseRef from "./UseRef";
 
 function App() {
   return (
     <>
-      <UseContextHook1 />
+      <UseRef />
     </>
   );
 }
