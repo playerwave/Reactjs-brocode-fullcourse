@@ -1,9 +1,9 @@
-import WHDisplay from "./WHDisplay";
+import DigitalClock from "./DigitalClock";
 
 function App() {
   return (
     <>
-      <WHDisplay />
+      <DigitalClock />
     </>
   );
 }
